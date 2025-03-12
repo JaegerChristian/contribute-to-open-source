@@ -1,3 +1,6 @@
+// This code realizes the changes made to the style of the code
+// This code had corrections - the exeption characters needed a space after
+
 exports._check = (x, y) => {
   // DRY up the codebase with this function
   // First, move the duplicate error checking code here
