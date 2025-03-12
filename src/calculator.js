@@ -1,5 +1,4 @@
-// This code realizes the changes made to the style of the code
-// This code had corrections - the exeption characters needed a space after
+// This code had corrections - the exeption characters needed a space
 
 exports._check = (x, y) => {
   // DRY up the codebase with this function
