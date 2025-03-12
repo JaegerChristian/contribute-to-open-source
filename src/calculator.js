@@ -1,3 +1,6 @@
+//This code realizes the changes made to the style of the code
+
+
 exports._check = (x, y) => {
   // DRY up the codebase with this function
   // First, move the duplicate error checking code here
