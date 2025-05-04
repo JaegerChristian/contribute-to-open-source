@@ -1,10 +1,13 @@
 /* eslint-disable no-unused-expressions */
 const calculator = require('./calculator');
 
-describe.skip('_check', () => {
+
+
+describe.only('_check', () => {
   beforeEach(() => {
     sinon.spy(calculator, '_check');
   });
+
 
   afterEach(() => {
     calculator._check.restore();
